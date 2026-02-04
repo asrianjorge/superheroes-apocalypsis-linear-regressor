@@ -1,5 +1,3 @@
-import kagglehub
-
 # dataset
 
 baraazaid/superherodb from kaggle
