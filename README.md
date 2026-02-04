@@ -2,7 +2,8 @@ import kagglehub
 
 # dataset
 
-baraazaid/superherodb
+baraazaid/superherodb from kaggle
+(the initial CSV file is not provided in this repository)
 
 # preprocessing data
 
